@@ -1,6 +1,6 @@
 #Welcome to Battleship React APP
 
-### first clone the repositori in a terminal
+### first clone the repository in a terminal
   $git clone https://github.com/manugarcal/battleship-react-app.git
 ### Install Node Package Manager
   $npm install
